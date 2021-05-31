@@ -1,6 +1,6 @@
 export default {
-  base: 'docs/',
+  root: 'src/',
   build: {
-    outDir: 'docs/'
+    outDir: '../'
   }
 }
