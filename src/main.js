@@ -1,6 +1,6 @@
 import './style.css'
 import './syntax.css'
-import { animon } from 'animon/dist/animon.esm.js';
+import { animon } from 'animon';
 
 
 // -------------

@@ -7,7 +7,7 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "animon": "^1.0.3",
+    "animon": "^1.0.4",
     "vite": "^2.3.3"
   }
 }
