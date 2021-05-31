@@ -1,0 +1,13 @@
+{
+  "name": "animon-site",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "animon": "^1.0.3",
+    "vite": "^2.3.3"
+  }
+}
